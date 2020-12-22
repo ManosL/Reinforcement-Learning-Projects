@@ -7,4 +7,4 @@ implementations related to Reinforcement Learning.
 
 ## Projects
 
-1.[David Silver Easy21][https://github.com/ManosL/Reinforcement-Learning-Projects/tree/main/D.Silver%20Easy21]
+1.(David Silver Easy21)[https://github.com/ManosL/Reinforcement-Learning-Projects/tree/main/D.Silver%20Easy21]
